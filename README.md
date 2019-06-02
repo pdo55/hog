@@ -31,3 +31,4 @@ After points for the turn are added to the current player's score, if the ones d
 ```
 python3 hog_gui.py
 ```
+(source: cs61a summer 2018)
